@@ -292,12 +292,17 @@ html , body {
     border:2px solid white;
     border-radius: 10px;
     border:5px solid rgb(13, 23, 36);
-    box-shadow: 0px 0px 50px rgb(4, 55, 239);
+    box-shadow: 0px 0px 30px rgb(4, 55, 239);
+    transition:0.1s;
+}
+#service1:hover{
+    transition:0.1s;
+    box-shadow: 0px 0px 30px rgb(28, 243, 53) ;
 }
 #service1 p{
     color:aqua;
     font-size:45px;
-    margin-left:20px;
+    margin-left:15px;
 }
 #service1 h1{
     color:white;
@@ -339,7 +344,12 @@ html , body {
     border:2px solid white;
     border-radius: 10px;
     border:5px solid rgb(13, 23, 36);
-    box-shadow: 0px 0px 50px rgb(4, 55, 239);
+    box-shadow: 0px 0px 30px rgb(4, 55, 239);
+    transition:0.1s;
+}
+#service2:hover{
+    transition:0.1s;
+    box-shadow: 0px 0px 30px orange;
 }
 #service2 p{
     color:aqua;
@@ -349,7 +359,7 @@ html , body {
 #service2 h1{
     color:white;
     font-size:28px;
-    margin-left:-150px;
+    margin-left:-180px;
     margin-top: 10px;
 }
 #service2 h6{
@@ -386,12 +396,17 @@ html , body {
     border:2px solid white;
     border-radius: 10px;
     border:5px solid rgb(13, 23, 36);
-    box-shadow: 0px 0px 50px rgb(4, 55, 239);
+    box-shadow: 0px 0px 30px rgb(4, 55, 239);
+    transition:0.1s;
+}
+#service3:hover{
+    transition:0.1s;
+    box-shadow: 0px 0px 30px rgb(243, 47, 100);
 }
 #service3 p{
     color:aqua;
     font-size:45px;
-    margin-left:20px;
+    margin-left:15px;
 }
 #service3 h1{
     color:white;
